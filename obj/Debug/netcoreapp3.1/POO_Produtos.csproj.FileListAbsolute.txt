@@ -1,0 +1,13 @@
+D:\Escolar\SENAI\GitHub\Backend\POO_Produtos\bin\Debug\netcoreapp3.1\POO_Produtos.exe
+D:\Escolar\SENAI\GitHub\Backend\POO_Produtos\bin\Debug\netcoreapp3.1\POO_Produtos.deps.json
+D:\Escolar\SENAI\GitHub\Backend\POO_Produtos\bin\Debug\netcoreapp3.1\POO_Produtos.runtimeconfig.json
+D:\Escolar\SENAI\GitHub\Backend\POO_Produtos\bin\Debug\netcoreapp3.1\POO_Produtos.runtimeconfig.dev.json
+D:\Escolar\SENAI\GitHub\Backend\POO_Produtos\bin\Debug\netcoreapp3.1\POO_Produtos.dll
+D:\Escolar\SENAI\GitHub\Backend\POO_Produtos\bin\Debug\netcoreapp3.1\POO_Produtos.pdb
+D:\Escolar\SENAI\GitHub\Backend\POO_Produtos\obj\Debug\netcoreapp3.1\POO_Produtos.csprojAssemblyReference.cache
+D:\Escolar\SENAI\GitHub\Backend\POO_Produtos\obj\Debug\netcoreapp3.1\POO_Produtos.AssemblyInfoInputs.cache
+D:\Escolar\SENAI\GitHub\Backend\POO_Produtos\obj\Debug\netcoreapp3.1\POO_Produtos.AssemblyInfo.cs
+D:\Escolar\SENAI\GitHub\Backend\POO_Produtos\obj\Debug\netcoreapp3.1\POO_Produtos.csproj.CoreCompileInputs.cache
+D:\Escolar\SENAI\GitHub\Backend\POO_Produtos\obj\Debug\netcoreapp3.1\POO_Produtos.dll
+D:\Escolar\SENAI\GitHub\Backend\POO_Produtos\obj\Debug\netcoreapp3.1\POO_Produtos.pdb
+D:\Escolar\SENAI\GitHub\Backend\POO_Produtos\obj\Debug\netcoreapp3.1\POO_Produtos.genruntimeconfig.cache
